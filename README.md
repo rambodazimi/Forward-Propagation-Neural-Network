@@ -3,7 +3,7 @@
 ## Introduction
 This Python code implements a simple 2-layer neural network for binary classification. The neural network is trained to classify input samples into one of two classes (0 or 1) based on their features. The implementation does not rely on any deep learning frameworks like TensorFlow or PyTorch, except for data normalization, which utilizes TensorFlow.
 
-## Author
+### Author
 Author: Rambod Azimi
 
 ## Prerequisites
